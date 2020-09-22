@@ -1,2 +1,1 @@
-![Contact Showcase](assets/sitebuilder-practice-showcase-contact.png?raw=true "Contact Showcase")
-
+<img src="https://i.imgur.com/KeK0D9Z.png">
